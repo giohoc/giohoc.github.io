@@ -126,3 +126,8 @@ button.btn, .button.btn {
 
 #post-list > *:not(.hide):last-child > .row:last-child, #post-list > *.last:not(.hide) > .row:last-child {
   display: none; }
+
+a {
+  color: #2199e8; }
+  a:hover, a:focus {
+    color: #1585cf; }
