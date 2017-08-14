@@ -18,6 +18,10 @@
   font-size: 1.6875rem;
   border-bottom: 1px solid #fe4d00; }
 
+article h1 {
+  font-size: 1.6875rem;
+  border-bottom: 1px solid #fe4d00; }
+
 #list-header .button {
   font-size: 0.875rem;
   padding-top: 0.625rem;
