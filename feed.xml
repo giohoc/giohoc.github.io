@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.1">Jekyll</generator><link href="http://0.0.0.0:3000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:3000/" rel="alternate" type="text/html" /><updated>2017-08-14T11:55:28+00:00</updated><id>http://0.0.0.0:3000/</id><title type="html">Giờ học Online</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.1">Jekyll</generator><link href="http://0.0.0.0:3000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:3000/" rel="alternate" type="text/html" /><updated>2017-08-15T05:47:57+00:00</updated><id>http://0.0.0.0:3000/</id><title type="html">Giờ học Online</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://0.0.0.0:3000/jekyll/update/2017/08/07/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2017-08-07T04:31:12+00:00</published><updated>2017-08-07T04:31:12+00:00</updated><id>http://0.0.0.0:3000/jekyll/update/2017/08/07/welcome-to-jekyll</id><content type="html" xml:base="http://0.0.0.0:3000/jekyll/update/2017/08/07/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
 &lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
@@ -11,16 +11,613 @@
 &lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
 &lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://0.0.0.0:3000/jekyll/update/2017/07/27/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2017-07-27T09:22:56+00:00</published><updated>2017-07-27T09:22:56+00:00</updated><id>http://0.0.0.0:3000/jekyll/update/2017/07/27/welcome-to-jekyll</id><content type="html" xml:base="http://0.0.0.0:3000/jekyll/update/2017/07/27/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry></feed>
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">Sử dụng web framework Ruby on Rails</title><link href="http://0.0.0.0:3000/ruby/on/rails/2017/07/27/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Sử dụng web framework Ruby on Rails" /><published>2017-07-27T09:22:56+00:00</published><updated>2017-07-27T09:22:56+00:00</updated><id>http://0.0.0.0:3000/ruby/on/rails/2017/07/27/welcome-to-jekyll</id><content type="html" xml:base="http://0.0.0.0:3000/ruby/on/rails/2017/07/27/welcome-to-jekyll.html">&lt;h3&gt;0) Cài đặt Ruby và Rails&lt;/h3&gt;
+&lt;p&gt;Tải Ruby 2.2.x tại http://rubyinstaller.org/downloads/.&lt;br /&gt;
+Cài đặt Rails: mở Command Prompt rồi gõ lệnh C:\Users\tri&amp;gt;gem install rails. &lt;br /&gt;&lt;/p&gt;
+&lt;h3&gt;1) Models&lt;/h3&gt;
+&lt;p&gt;Tạo project blog: C:\PROJECTS&amp;gt;rails new blog. &lt;br /&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-batch&quot;&gt;blog/
+    app/
+    bin/
+    config/&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Chạy server: C:\PROJECTS\blog&amp;gt;rails server. &lt;br /&gt;
+Mở trình duyệt rồi vào địa chỉ http://localhost:3000/ để xem thông báo của server. &lt;br /&gt;
+Tạo controller “Welcome” và action “index”: C:\PROJECTS\blog&amp;gt;bin/rails generate controller Welcome index. &lt;br /&gt;
+Mở file app/views/welcome/index.html.erb thêm code: &lt;br /&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-markup&quot;&gt;&amp;lt;h1&amp;gt;Hello, Rails!&amp;lt;/h1&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Mở file config/routes.rb thêm code: &lt;br /&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-ruby&quot;&gt;Rails.application.routes.draw do
+  get 'welcome/index'
+  root 'welcome#index'
+end&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Chạy lại server rồi vào địa chỉ http://localhost:3000/ sẽ thấy thông báo “Hello, Rails!”. &lt;br /&gt;&lt;/p&gt;
+&lt;h3&gt;2) Resource&lt;/h3&gt;
+&lt;p&gt;Mở file config/routes.rb thêm resource article: &lt;br /&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-ruby&quot;&gt;Rails.application.routes.draw do
+  get 'welcome/index'
+  resources :articles
+  root 'welcome#index'
+end&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Chạy lệnh C:\PROJECTS\blog&amp;gt;bin/rails routes ta sẽ thấy các routes của RESTful actions. &lt;br /&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-batch&quot;&gt;      Prefix Verb   URI Pattern                  Controller#Action
+    articles GET    /articles(.:format)          articles#index
+             POST   /articles(.:format)          articles#create
+ new_article GET    /articles/new(.:format)      articles#new
+edit_article GET    /articles/:id/edit(.:format) articles#edit
+     article GET    /articles/:id(.:format)      articles#show
+             PATCH  /articles/:id(.:format)      articles#update
+             PUT    /articles/:id(.:format)      articles#update
+             DELETE /articles/:id(.:format)      articles#destroy
+        root GET    /                            welcome#index&lt;/code&gt;&lt;/pre&gt;
+&lt;h3&gt;3) ArticlesController&lt;/h3&gt;
+&lt;p&gt;Tạo controller “ArticlesController”: C:\PROJECTS\blog&amp;gt;bin/rails generate controller Articles. &lt;br /&gt;
+Mở file app/controllers/articles_controller.rb để thêm các hàm chức năng: &lt;br /&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-ruby&quot;&gt;class ArticlesController &amp;lt; ApplicationController
+  def new
+  end
+end&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Tạo file template app/views/articles/new.html.erb cho view thêm mới article: &lt;br /&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-markup&quot;&gt;&amp;lt;h1&amp;gt;New Article&amp;lt;/h1&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;h3&gt;4) Forms&lt;/h3&gt;
+&lt;p&gt;Sửa file template app/views/articles/new.html.erb cho thêm mới article: &lt;br /&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-markup&quot;&gt;&amp;lt;%= form_for :article, url: articles_path do |f| %&amp;gt;
+  &amp;lt;p&amp;gt;
+    &amp;lt;%= f.label :title %&amp;gt;&amp;lt;br&amp;gt;
+    &amp;lt;%= f.text_field :title %&amp;gt;
+  &amp;lt;/p&amp;gt;
+ 
+  &amp;lt;p&amp;gt;
+    &amp;lt;%= f.label :text %&amp;gt;&amp;lt;br&amp;gt;
+    &amp;lt;%= f.text_area :text %&amp;gt;
+  &amp;lt;/p&amp;gt;
+ 
+  &amp;lt;p&amp;gt;
+    &amp;lt;%= f.submit %&amp;gt;
+  &amp;lt;/p&amp;gt;
+&amp;lt;% end %&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;h3&gt;5) Creating articles&lt;/h3&gt;
+&lt;p&gt;Hiện thực hàm create() trong file app/controllers/articles_controller.rb để xử lý dữ liệu submit về: &lt;br /&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-ruby&quot;&gt;class ArticlesController &amp;lt; ApplicationController
+  def new
+  end
+  def create
+  end
+end&lt;/code&gt;&lt;/pre&gt;
+&lt;h3&gt;6) Creating the Article model&lt;/h3&gt;
+&lt;p&gt;Tạo model Article: C:\PROJECTS\blog&amp;gt;bin/rails generate model Article title:string text:text. &lt;br /&gt;
+Mở file db/migrate/YYYYMMDDHHMMSS_create_articles.rb xem cấu trúc bảng articles trong database. &lt;br /&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-ruby&quot;&gt;class CreateArticles &amp;lt; ActiveRecord::Migration[5.0]
+  def change
+    create_table :articles do |t|
+      t.string :title
+      t.text :text
+      t.timestamps
+    end
+  end
+end&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Migrate cấu trúc bảng articles vào database: C:\PROJECTS\blog&amp;gt;bin/rails db:migrate&lt;br /&gt;&lt;/p&gt;
+&lt;h3&gt;7) Saving data in the controller&lt;/h3&gt;
+&lt;p&gt;Sửa lại hàm create() trong file app/controllers/articles_controller.rb để xử lý dữ liệu submit về: &lt;br /&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-ruby&quot;&gt;def create
+  @article = Article.new(article_params)
+  @article.save
+  redirect_to @article
+end
+private
+  def article_params
+    params.require(:article).permit(:title, :text)
+  end&lt;/code&gt;&lt;/pre&gt;
+&lt;h3&gt;8) Showing Articles&lt;/h3&gt;
+&lt;p&gt;Thêm hàm show() trong file app/controllers/articles_controller.rb để hiển thị chi tiết article: &lt;br /&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-ruby&quot;&gt;class ArticlesController &amp;lt; ApplicationController
+  def show
+    @article = Article.find(params[:id])
+  end&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Tạo file template app/views/articles/show.html.erb để hiển thị nội dung article. &lt;br /&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-markup&quot;&gt;&amp;lt;p&amp;gt;
+  &amp;lt;strong&amp;gt;Title:&amp;lt;/strong&amp;gt;
+  &amp;lt;%= @article.title %&amp;gt;
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+  &amp;lt;strong&amp;gt;Text:&amp;lt;/strong&amp;gt;
+  &amp;lt;%= @article.text %&amp;gt;
+&amp;lt;/p&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;h3&gt;9) Listing all articles&lt;/h3&gt;
+&lt;p&gt;Sửa hàm index() trong file app/controllers/articles_controller.rb để hiển thị tất cả articles: &lt;br /&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-ruby&quot;&gt;class ArticlesController &amp;lt; ApplicationController
+  def index
+    @articles = Article.all
+  End&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Tạo file template app/views/articles/index.html.erb để hiển thị danh sách articles. &lt;br /&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-markup&quot;&gt;&amp;lt;h1&amp;gt;Listing articles&amp;lt;/h1&amp;gt;
+&amp;lt;table&amp;gt;
+  &amp;lt;tr&amp;gt;
+    &amp;lt;th&amp;gt;Title&amp;lt;/th&amp;gt;
+    &amp;lt;th&amp;gt;Text&amp;lt;/th&amp;gt;
+  &amp;lt;/tr&amp;gt;
+  &amp;lt;% @articles.each do |article| %&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;%= article.title %&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;%= article.text %&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;%= link_to 'Show', article_path(article) %&amp;gt;&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;% end %&amp;gt;
+&amp;lt;/table&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;h3&gt;10) Adding links&lt;/h3&gt;
+&lt;p&gt;Mở file app/views/welcome/index.html.erb để thêm đường link đến trang danh sách articles: &lt;br /&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-markup&quot;&gt;&amp;lt;h1&amp;gt;Hello, Rails!&amp;lt;/h1&amp;gt;
+&amp;lt;%= link_to 'My Blog', controller: 'articles' %&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Mở file app/views/articles/index.html.erb để thêm đường link đến trang tạo mới article: &lt;br /&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-markup&quot;&gt;&amp;lt;%= link_to 'New article', new_article_path %&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Mở file app/views/articles/new.html.erb để thêm đường link trở về trang danh sách articles: &lt;br /&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-markup&quot;&gt;&amp;lt;%= form_for :article, url: articles_path do |f| %&amp;gt;
+  ...
+&amp;lt;% end %&amp;gt;
+&amp;lt;%= link_to 'Back', articles_path %&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Mở file app/views/articles/show.html.erb để thêm đường link trở về trang danh sách articles: &lt;br /&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-markup&quot;&gt;&amp;lt;p&amp;gt;
+  &amp;lt;strong&amp;gt;Title:&amp;lt;/strong&amp;gt;
+  &amp;lt;%= @article.title %&amp;gt;
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+  &amp;lt;strong&amp;gt;Text:&amp;lt;/strong&amp;gt;
+  &amp;lt;%= @article.text %&amp;gt;
+&amp;lt;/p&amp;gt;
+&amp;lt;%= link_to 'Back', articles_path %&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;h3&gt;11) Adding Some Validation&lt;/h3&gt;
+&lt;p&gt;Mở file app/models/article.rb để thêm code kiểm tra tính hợp lệ của Article: &lt;br /&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-ruby&quot;&gt;class Article &amp;lt; ApplicationRecord
+  validates :title, presence: true,
+                    length: { minimum: 5 }
+end&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Mở file app/controllers/articles_controller.rb để thêm code kiểm tra tính hợp lệ của Article: &lt;br /&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-ruby&quot;&gt;def new
+  @article = Article.new
+end
+def create
+  @article = Article.new(article_params)
+  if @article.save
+    redirect_to @article
+  else
+    render 'new'
+  end
+end
+private
+  def article_params
+    params.require(:article).permit(:title, :text)
+  end&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Mở file app/views/articles/new.html.erb để thêm code hiển thị thông báo lỗi: &lt;br /&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-markup&quot;&gt;&amp;lt;%= form_for :article, url: articles_path do |f| %&amp;gt;
+  &amp;lt;% if @article.errors.any? %&amp;gt;
+    &amp;lt;div id=&quot;error_explanation&quot;&amp;gt;
+      &amp;lt;h2&amp;gt;
+        &amp;lt;%= pluralize(@article.errors.count, &quot;error&quot;) %&amp;gt; prohibited
+        this article from being saved:
+      &amp;lt;/h2&amp;gt;
+      &amp;lt;ul&amp;gt;
+        &amp;lt;% @article.errors.full_messages.each do |msg| %&amp;gt;
+          &amp;lt;li&amp;gt;&amp;lt;%= msg %&amp;gt;&amp;lt;/li&amp;gt;
+        &amp;lt;% end %&amp;gt;
+      &amp;lt;/ul&amp;gt;
+    &amp;lt;/div&amp;gt;
+  &amp;lt;% end %&amp;gt;
+  &amp;lt;p&amp;gt;
+    &amp;lt;%= f.label :title %&amp;gt;&amp;lt;br&amp;gt;
+    &amp;lt;%= f.text_field :title %&amp;gt;
+  &amp;lt;/p&amp;gt;
+  &amp;lt;p&amp;gt;
+    &amp;lt;%= f.label :text %&amp;gt;&amp;lt;br&amp;gt;
+    &amp;lt;%= f.text_area :text %&amp;gt;
+  &amp;lt;/p&amp;gt;
+  &amp;lt;p&amp;gt;
+    &amp;lt;%= f.submit %&amp;gt;
+  &amp;lt;/p&amp;gt;
+&amp;lt;% end %&amp;gt;
+&amp;lt;%= link_to 'Back', articles_path %&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;h3&gt;12) Updating Articles&lt;/h3&gt;
+&lt;p&gt;Mở file app/controllers/articles_controller.rb để thêm action edit: &lt;br /&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-ruby&quot;&gt;def new
+  @article = Article.new
+end
+def edit
+  @article = Article.find(params[:id])
+end
+def create
+  @article = Article.new(article_params)
+  if @article.save
+    redirect_to @article
+  else
+    render 'new'
+  end
+end&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Tạo file template app/views/articles/edit.html.erb để chỉnh sửa article. &lt;br /&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-markup&quot;&gt;&amp;lt;h1&amp;gt;Edit article&amp;lt;/h1&amp;gt;
+&amp;lt;%= form_for(@article) do |f| %&amp;gt;
+  &amp;lt;% if @article.errors.any? %&amp;gt;
+    &amp;lt;div id=&quot;error_explanation&quot;&amp;gt;
+      &amp;lt;h2&amp;gt;
+        &amp;lt;%= pluralize(@article.errors.count, &quot;error&quot;) %&amp;gt; prohibited
+        this article from being saved:
+      &amp;lt;/h2&amp;gt;
+      &amp;lt;ul&amp;gt;
+        &amp;lt;% @article.errors.full_messages.each do |msg| %&amp;gt;
+          &amp;lt;li&amp;gt;&amp;lt;%= msg %&amp;gt;&amp;lt;/li&amp;gt;
+        &amp;lt;% end %&amp;gt;
+      &amp;lt;/ul&amp;gt;
+    &amp;lt;/div&amp;gt;
+  &amp;lt;% end %&amp;gt;
+  &amp;lt;p&amp;gt;
+    &amp;lt;%= f.label :title %&amp;gt;&amp;lt;br&amp;gt;
+    &amp;lt;%= f.text_field :title %&amp;gt;
+  &amp;lt;/p&amp;gt;
+  &amp;lt;p&amp;gt;
+    &amp;lt;%= f.label :text %&amp;gt;&amp;lt;br&amp;gt;
+    &amp;lt;%= f.text_area :text %&amp;gt;
+  &amp;lt;/p&amp;gt;
+  &amp;lt;p&amp;gt;
+    &amp;lt;%= f.submit %&amp;gt;
+  &amp;lt;/p&amp;gt;
+&amp;lt;% end %&amp;gt;
+&amp;lt;%= link_to 'Back', articles_path %&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Thêm hàm update() trong file app/controllers/articles_controller.rb để cập nhật dữ liệu submit về: &lt;br /&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-ruby&quot;&gt;def create
+  @article = Article.new(article_params)
+  if @article.save
+    redirect_to @article
+  else
+    render 'new'
+  end
+end
+def update
+  @article = Article.find(params[:id])
+  if @article.update(article_params)
+    redirect_to @article
+  else
+    render 'edit'
+  end
+end
+private
+  def article_params
+    params.require(:article).permit(:title, :text)
+  end&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Mở file app/views/articles/index.html.erb để thêm đường link đến trang chỉnh sửa article: &lt;br /&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-markup&quot;&gt;&amp;lt;table&amp;gt;
+  &amp;lt;tr&amp;gt;
+    &amp;lt;th&amp;gt;Title&amp;lt;/th&amp;gt;
+    &amp;lt;th&amp;gt;Text&amp;lt;/th&amp;gt;
+    &amp;lt;th colspan=&quot;2&quot;&amp;gt;&amp;lt;/th&amp;gt;
+  &amp;lt;/tr&amp;gt;
+  &amp;lt;% @articles.each do |article| %&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;%= article.title %&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;%= article.text %&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;%= link_to 'Show', article_path(article) %&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;%= link_to 'Edit', edit_article_path(article) %&amp;gt;&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;% end %&amp;gt;
+&amp;lt;/table&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Mở file app/views/articles/show.html.erb để thêm đường link đến trang chỉnh sửa article: &lt;br /&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-markup&quot;&gt;...
+&amp;lt;%= link_to 'Edit', edit_article_path(@article) %&amp;gt; |
+&amp;lt;%= link_to 'Back', articles_path %&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;h3&gt;13) Using partials to clean up duplication in views&lt;/h3&gt;
+&lt;p&gt;Tạo file template app/views/articles/_form.html.erb để thêm mới hay chỉnh sửa article. &lt;br /&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-markup&quot;&gt;&amp;lt;%= form_for @article do |f| %&amp;gt;
+  &amp;lt;% if @article.errors.any? %&amp;gt;
+    &amp;lt;div id=&quot;error_explanation&quot;&amp;gt;
+      &amp;lt;h2&amp;gt;
+        &amp;lt;%= pluralize(@article.errors.count, &quot;error&quot;) %&amp;gt; prohibited
+        this article from being saved:
+      &amp;lt;/h2&amp;gt;
+      &amp;lt;ul&amp;gt;
+        &amp;lt;% @article.errors.full_messages.each do |msg| %&amp;gt;
+          &amp;lt;li&amp;gt;&amp;lt;%= msg %&amp;gt;&amp;lt;/li&amp;gt;
+        &amp;lt;% end %&amp;gt;
+      &amp;lt;/ul&amp;gt;
+    &amp;lt;/div&amp;gt;
+  &amp;lt;% end %&amp;gt;
+  &amp;lt;p&amp;gt;
+    &amp;lt;%= f.label :title %&amp;gt;&amp;lt;br&amp;gt;
+    &amp;lt;%= f.text_field :title %&amp;gt;
+  &amp;lt;/p&amp;gt;
+  &amp;lt;p&amp;gt;
+    &amp;lt;%= f.label :text %&amp;gt;&amp;lt;br&amp;gt;
+    &amp;lt;%= f.text_area :text %&amp;gt;
+  &amp;lt;/p&amp;gt;
+  &amp;lt;p&amp;gt;
+    &amp;lt;%= f.submit %&amp;gt;
+  &amp;lt;/p&amp;gt;
+&amp;lt;% end %&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Sửa file template app/views/articles/new.html.erb để sử dụng partial view: &lt;br /&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-markup&quot;&gt;&amp;lt;h1&amp;gt;New article&amp;lt;/h1&amp;gt;
+&amp;lt;%= render 'form' %&amp;gt;
+&amp;lt;%= link_to 'Back', articles_path %&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Tương tự sửa file template app/views/articles/edit.html.erb để sử dụng partial view: &lt;br /&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-markup&quot;&gt;&amp;lt;h1&amp;gt;Edit article&amp;lt;/h1&amp;gt;
+&amp;lt;%= render 'form' %&amp;gt;
+&amp;lt;%= link_to 'Back', articles_path %&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;h3&gt;14) Deleting Articles&lt;/h3&gt;
+&lt;p&gt;Mở file app/controllers/articles_controller.rb để thêm action destroy: &lt;br /&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-ruby&quot;&gt;class ArticlesController &amp;lt; ApplicationController
+  def index
+    @articles = Article.all
+  end
+  def show
+    @article = Article.find(params[:id])
+  end
+  def new
+    @article = Article.new
+  end
+  def edit
+    @article = Article.find(params[:id])
+  end
+  def create
+    @article = Article.new(article_params)
+    if @article.save
+      redirect_to @article
+    else
+      render 'new'
+    end
+  end
+  def update
+    @article = Article.find(params[:id])
+    if @article.update(article_params)
+      redirect_to @article
+    else
+      render 'edit'
+    end
+  end
+  def destroy
+    @article = Article.find(params[:id])
+    @article.destroy
+    redirect_to articles_path
+  end
+  private
+    def article_params
+      params.require(:article).permit(:title, :text)
+    end
+end&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Mở file app/views/articles/index.html.erb để thêm nút xóa article: &lt;br /&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-markup&quot;&gt;&amp;lt;h1&amp;gt;Listing Articles&amp;lt;/h1&amp;gt;
+&amp;lt;%= link_to 'New article', new_article_path %&amp;gt;
+&amp;lt;table&amp;gt;
+  &amp;lt;tr&amp;gt;
+    &amp;lt;th&amp;gt;Title&amp;lt;/th&amp;gt;
+    &amp;lt;th&amp;gt;Text&amp;lt;/th&amp;gt;
+    &amp;lt;th colspan=&quot;3&quot;&amp;gt;&amp;lt;/th&amp;gt;
+  &amp;lt;/tr&amp;gt;
+  &amp;lt;% @articles.each do |article| %&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;%= article.title %&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;%= article.text %&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;%= link_to 'Show', article_path(article) %&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;%= link_to 'Edit', edit_article_path(article) %&amp;gt;&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;&amp;lt;%= link_to 'Destroy', article_path(article),
+              method: :delete,
+              data: { confirm: 'Are you sure?' } %&amp;gt;&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;% end %&amp;gt;
+&amp;lt;/table&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Congratulations, you can now create, show, list, update and destroy articles. &lt;br /&gt;&lt;/p&gt;
+&lt;h3&gt;15) Adding a Second Model&lt;/h3&gt;
+&lt;p&gt;Tạo model Comment tham chiếu đến Article: C:\PROJECTS\blog&amp;gt;bin/rails generate model Comment commenter:string body:text article:references.
+Mở file db/migrate/YYYYMMDDHHMMSS_create_comments.rb xem cấu trúc bảng comments trong database. &lt;br /&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-ruby&quot;&gt;class CreateComments &amp;lt; ActiveRecord::Migration[5.0]
+  def change
+    create_table :comments do |t|
+      t.string :commenter
+      t.text :body
+      t.references :article, foreign_key: true
+      t.timestamps
+    end
+  end
+end&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Migrate cấu trúc bảng comments vào database: C:\PROJECTS\blog&amp;gt;bin/rails db:migrate&lt;br /&gt;&lt;/p&gt;
+&lt;h3&gt;16) Associating Models&lt;/h3&gt;
+&lt;p&gt;Mở file app/models/article.rb để thêm tham chiếu đến Comment: &lt;br /&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-ruby&quot;&gt;class Article &amp;lt; ApplicationRecord
+  has_many :comments
+  validates :title, presence: true,
+                    length: { minimum: 5 }
+end&lt;/code&gt;&lt;/pre&gt;
+&lt;h3&gt;17) Adding a Route for Comments&lt;/h3&gt;
+&lt;p&gt;Mở file config/routes.rb thêm resource comments: &lt;br /&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-ruby&quot;&gt;resources :articles do
+  resources :comments
+end&lt;/code&gt;&lt;/pre&gt;
+&lt;h3&gt;18) Generating Comments Controller&lt;/h3&gt;
+&lt;p&gt;Tạo controller “CommentsController”: C:\PROJECTS\blog&amp;gt;bin/rails generate controller Comments. &lt;br /&gt;
+Mở file app/views/articles/show.html.erb để thêm tạo mới comment: &lt;br /&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-markup&quot;&gt;&amp;lt;p&amp;gt;
+  &amp;lt;strong&amp;gt;Title:&amp;lt;/strong&amp;gt;
+  &amp;lt;%= @article.title %&amp;gt;
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+  &amp;lt;strong&amp;gt;Text:&amp;lt;/strong&amp;gt;
+  &amp;lt;%= @article.text %&amp;gt;
+&amp;lt;/p&amp;gt;
+&amp;lt;h2&amp;gt;Add a comment:&amp;lt;/h2&amp;gt;
+&amp;lt;%= form_for([@article, @article.comments.build]) do |f| %&amp;gt;
+  &amp;lt;p&amp;gt;
+    &amp;lt;%= f.label :commenter %&amp;gt;&amp;lt;br&amp;gt;
+    &amp;lt;%= f.text_field :commenter %&amp;gt;
+  &amp;lt;/p&amp;gt;
+  &amp;lt;p&amp;gt;
+    &amp;lt;%= f.label :body %&amp;gt;&amp;lt;br&amp;gt;
+    &amp;lt;%= f.text_area :body %&amp;gt;
+  &amp;lt;/p&amp;gt;
+  &amp;lt;p&amp;gt;
+    &amp;lt;%= f.submit %&amp;gt;
+  &amp;lt;/p&amp;gt;
+&amp;lt;% end %&amp;gt;
+&amp;lt;%= link_to 'Edit', edit_article_path(@article) %&amp;gt; |
+&amp;lt;%= link_to 'Back', articles_path %&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Mở file app/controllers/comments_controller.rb để thêm các hàm chức năng: &lt;br /&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-ruby&quot;&gt;class CommentsController &amp;lt; ApplicationController
+  def create
+    @article = Article.find(params[:article_id])
+    @comment = @article.comments.create(comment_params)
+    redirect_to article_path(@article)
+  end
+  private
+    def comment_params
+      params.require(:comment).permit(:commenter, :body)
+    end
+end&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Sửa file template app/views/articles/show.html.erb để hiển thị danh sách comments. &lt;br /&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-markup&quot;&gt;&amp;lt;p&amp;gt;
+  &amp;lt;strong&amp;gt;Title:&amp;lt;/strong&amp;gt;
+  &amp;lt;%= @article.title %&amp;gt;
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+  &amp;lt;strong&amp;gt;Text:&amp;lt;/strong&amp;gt;
+  &amp;lt;%= @article.text %&amp;gt;
+&amp;lt;/p&amp;gt;
+&amp;lt;h2&amp;gt;Comments&amp;lt;/h2&amp;gt;
+&amp;lt;% @article.comments.each do |comment| %&amp;gt;
+  &amp;lt;p&amp;gt;
+    &amp;lt;strong&amp;gt;Commenter:&amp;lt;/strong&amp;gt;
+    &amp;lt;%= comment.commenter %&amp;gt;
+  &amp;lt;/p&amp;gt;
+  &amp;lt;p&amp;gt;
+    &amp;lt;strong&amp;gt;Comment:&amp;lt;/strong&amp;gt;
+    &amp;lt;%= comment.body %&amp;gt;
+  &amp;lt;/p&amp;gt;
+&amp;lt;% end %&amp;gt;
+&amp;lt;h2&amp;gt;Add a comment:&amp;lt;/h2&amp;gt;
+&amp;lt;%= form_for([@article, @article.comments.build]) do |f| %&amp;gt;
+  &amp;lt;p&amp;gt;
+    &amp;lt;%= f.label :commenter %&amp;gt;&amp;lt;br&amp;gt;
+    &amp;lt;%= f.text_field :commenter %&amp;gt;
+  &amp;lt;/p&amp;gt;
+  &amp;lt;p&amp;gt;
+    &amp;lt;%= f.label :body %&amp;gt;&amp;lt;br&amp;gt;
+    &amp;lt;%= f.text_area :body %&amp;gt;
+  &amp;lt;/p&amp;gt;
+  &amp;lt;p&amp;gt;
+    &amp;lt;%= f.submit %&amp;gt;
+  &amp;lt;/p&amp;gt;
+&amp;lt;% end %&amp;gt;
+&amp;lt;%= link_to 'Edit', edit_article_path(@article) %&amp;gt; |
+&amp;lt;%= link_to 'Back', articles_path %&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;h3&gt;19) Refactoring/Rendering Partial Collections&lt;/h3&gt;
+&lt;p&gt;Tạo file template app/views/comments/_comment.html.erb để hiển thị comment. &lt;br /&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-markup&quot;&gt;&amp;lt;p&amp;gt;
+  &amp;lt;strong&amp;gt;Commenter:&amp;lt;/strong&amp;gt;
+  &amp;lt;%= comment.commenter %&amp;gt;
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+  &amp;lt;strong&amp;gt;Comment:&amp;lt;/strong&amp;gt;
+  &amp;lt;%= comment.body %&amp;gt;
+&amp;lt;/p&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Mở file app/views/articles/show.html.erb để sử dụng partial view: &lt;br /&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-markup&quot;&gt;&amp;lt;p&amp;gt;
+  &amp;lt;strong&amp;gt;Title:&amp;lt;/strong&amp;gt;
+  &amp;lt;%= @article.title %&amp;gt;
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+  &amp;lt;strong&amp;gt;Text:&amp;lt;/strong&amp;gt;
+  &amp;lt;%= @article.text %&amp;gt;
+&amp;lt;/p&amp;gt;
+&amp;lt;h2&amp;gt;Comments&amp;lt;/h2&amp;gt;
+&amp;lt;%= render @article.comments %&amp;gt;
+&amp;lt;h2&amp;gt;Add a comment:&amp;lt;/h2&amp;gt;
+&amp;lt;%= form_for([@article, @article.comments.build]) do |f| %&amp;gt;
+  &amp;lt;p&amp;gt;
+    &amp;lt;%= f.label :commenter %&amp;gt;&amp;lt;br&amp;gt;
+    &amp;lt;%= f.text_field :commenter %&amp;gt;
+  &amp;lt;/p&amp;gt;
+  &amp;lt;p&amp;gt;
+    &amp;lt;%= f.label :body %&amp;gt;&amp;lt;br&amp;gt;
+    &amp;lt;%= f.text_area :body %&amp;gt;
+  &amp;lt;/p&amp;gt;
+  &amp;lt;p&amp;gt;
+    &amp;lt;%= f.submit %&amp;gt;
+  &amp;lt;/p&amp;gt;
+&amp;lt;% end %&amp;gt;
+&amp;lt;%= link_to 'Edit', edit_article_path(@article) %&amp;gt; |
+&amp;lt;%= link_to 'Back', articles_path %&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;h3&gt;20) Rendering a Partial Form&lt;/h3&gt;
+&lt;p&gt;Tạo file template app/views/comments/_form.html.erb để hiển thị form comment. &lt;br /&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-markup&quot;&gt;&amp;lt;%= form_for([@article, @article.comments.build]) do |f| %&amp;gt;
+  &amp;lt;p&amp;gt;
+    &amp;lt;%= f.label :commenter %&amp;gt;&amp;lt;br&amp;gt;
+    &amp;lt;%= f.text_field :commenter %&amp;gt;
+  &amp;lt;/p&amp;gt;
+  &amp;lt;p&amp;gt;
+    &amp;lt;%= f.label :body %&amp;gt;&amp;lt;br&amp;gt;
+    &amp;lt;%= f.text_area :body %&amp;gt;
+  &amp;lt;/p&amp;gt;
+  &amp;lt;p&amp;gt;
+    &amp;lt;%= f.submit %&amp;gt;
+  &amp;lt;/p&amp;gt;
+&amp;lt;% end %&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Mở file app/views/articles/show.html.erb để sử dụng partial view: &lt;br /&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-markup&quot;&gt;&amp;lt;p&amp;gt;
+  &amp;lt;strong&amp;gt;Title:&amp;lt;/strong&amp;gt;
+  &amp;lt;%= @article.title %&amp;gt;
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+  &amp;lt;strong&amp;gt;Text:&amp;lt;/strong&amp;gt;
+  &amp;lt;%= @article.text %&amp;gt;
+&amp;lt;/p&amp;gt;
+&amp;lt;h2&amp;gt;Comments&amp;lt;/h2&amp;gt;
+&amp;lt;%= render @article.comments %&amp;gt;
+&amp;lt;h2&amp;gt;Add a comment:&amp;lt;/h2&amp;gt;
+&amp;lt;%= render 'comments/form' %&amp;gt;
+&amp;lt;%= link_to 'Edit', edit_article_path(@article) %&amp;gt; |
+&amp;lt;%= link_to 'Back', articles_path %&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;h3&gt;21) Deleting Comments&lt;/h3&gt;
+&lt;p&gt;Mở file app/views/comments/_comment.html.erb để thêm nút xóa comment: &lt;br /&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-markup&quot;&gt;&amp;lt;p&amp;gt;
+  &amp;lt;strong&amp;gt;Commenter:&amp;lt;/strong&amp;gt;
+  &amp;lt;%= comment.commenter %&amp;gt;
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+  &amp;lt;strong&amp;gt;Comment:&amp;lt;/strong&amp;gt;
+  &amp;lt;%= comment.body %&amp;gt;
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+  &amp;lt;%= link_to 'Destroy Comment', [comment.article, comment],
+               method: :delete,
+               data: { confirm: 'Are you sure?' } %&amp;gt;
+&amp;lt;/p&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Mở file app/controllers/comments_controller.rb để thêm action destroy: &lt;br /&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-ruby&quot;&gt;class CommentsController &amp;lt; ApplicationController
+  def create
+    @article = Article.find(params[:article_id])
+    @comment = @article.comments.create(comment_params)
+    redirect_to article_path(@article)
+  end
+  def destroy
+    @article = Article.find(params[:article_id])
+    @comment = @article.comments.find(params[:id])
+    @comment.destroy
+    redirect_to article_path(@article)
+  end
+  private
+    def comment_params
+      params.require(:comment).permit(:commenter, :body)
+    end
+end&lt;/code&gt;&lt;/pre&gt;
+&lt;h3&gt;22) Deleting Associated Objects&lt;/h3&gt;
+&lt;p&gt;Mở file app/models/article.rb để xóa comments phụ thuộc khi ta xóa article: &lt;br /&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-ruby&quot;&gt;class Article &amp;lt; ApplicationRecord
+  has_many :comments, dependent: :destroy
+  validates :title, presence: true,
+                    length: { minimum: 5 }
+end&lt;/code&gt;&lt;/pre&gt;
+&lt;h3&gt;23) Security&lt;/h3&gt;
+&lt;p&gt;Mở file app/controllers/articles_controller.rb để thêm xác thực: &lt;br /&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-ruby&quot;&gt;class ArticlesController &amp;lt; ApplicationController
+  http_basic_authenticate_with name: &quot;dhh&quot;, password: &quot;secret&quot;, except: [:index, :show]
+  def index
+    @articles = Article.all
+  end&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Mở file app/controllers/comments_controller.rb để thêm xác thực: &lt;br /&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-ruby&quot;&gt;class CommentsController &amp;lt; ApplicationController
+  http_basic_authenticate_with name: &quot;dhh&quot;, password: &quot;secret&quot;, only: :destroy
+  def create
+    @article = Article.find(params[:article_id])
+    # ...
+  end&lt;/code&gt;&lt;/pre&gt;</content><author><name></name></author><summary type="html">0) Cài đặt Ruby và Rails Tải Ruby 2.2.x tại http://rubyinstaller.org/downloads/. Cài đặt Rails: mở Command Prompt rồi gõ lệnh C:\Users\tri&amp;gt;gem install rails. 1) Models Tạo project blog: C:\PROJECTS&amp;gt;rails new blog. blog/ app/ bin/ config/ Chạy server: C:\PROJECTS\blog&amp;gt;rails server. Mở trình duyệt rồi vào địa chỉ http://localhost:3000/ để xem thông báo của server. Tạo controller “Welcome” và action “index”: C:\PROJECTS\blog&amp;gt;bin/rails generate controller Welcome index. Mở file app/views/welcome/index.html.erb thêm code: &amp;lt;h1&amp;gt;Hello, Rails!&amp;lt;/h1&amp;gt; Mở file config/routes.rb thêm code: Rails.application.routes.draw do get 'welcome/index' root 'welcome#index' end Chạy lại server rồi vào địa chỉ http://localhost:3000/ sẽ thấy thông báo “Hello, Rails!”. 2) Resource Mở file config/routes.rb thêm resource article: Rails.application.routes.draw do get 'welcome/index' resources :articles root 'welcome#index' end Chạy lệnh C:\PROJECTS\blog&amp;gt;bin/rails routes ta sẽ thấy các routes của RESTful actions. Prefix Verb URI Pattern Controller#Action articles GET /articles(.:format) articles#index POST /articles(.:format) articles#create new_article GET /articles/new(.:format) articles#new edit_article GET /articles/:id/edit(.:format) articles#edit article GET /articles/:id(.:format) articles#show PATCH /articles/:id(.:format) articles#update PUT /articles/:id(.:format) articles#update DELETE /articles/:id(.:format) articles#destroy root GET / welcome#index 3) ArticlesController Tạo controller “ArticlesController”: C:\PROJECTS\blog&amp;gt;bin/rails generate controller Articles. Mở file app/controllers/articles_controller.rb để thêm các hàm chức năng: class ArticlesController &amp;lt; ApplicationController def new end end Tạo file template app/views/articles/new.html.erb cho view thêm mới article: &amp;lt;h1&amp;gt;New Article&amp;lt;/h1&amp;gt; 4) Forms Sửa file template app/views/articles/new.html.erb cho thêm mới article: &amp;lt;%= form_for :article, url: articles_path do |f| %&amp;gt; &amp;lt;p&amp;gt; &amp;lt;%= f.label :title %&amp;gt;&amp;lt;br&amp;gt; &amp;lt;%= f.text_field :title %&amp;gt; &amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; &amp;lt;%= f.label :text %&amp;gt;&amp;lt;br&amp;gt; &amp;lt;%= f.text_area :text %&amp;gt; &amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; &amp;lt;%= f.submit %&amp;gt; &amp;lt;/p&amp;gt; &amp;lt;% end %&amp;gt; 5) Creating articles Hiện thực hàm create() trong file app/controllers/articles_controller.rb để xử lý dữ liệu submit về: class ArticlesController &amp;lt; ApplicationController def new end def create end end 6) Creating the Article model Tạo model Article: C:\PROJECTS\blog&amp;gt;bin/rails generate model Article title:string text:text. Mở file db/migrate/YYYYMMDDHHMMSS_create_articles.rb xem cấu trúc bảng articles trong database. class CreateArticles &amp;lt; ActiveRecord::Migration[5.0] def change create_table :articles do |t| t.string :title t.text :text t.timestamps end end end Migrate cấu trúc bảng articles vào database: C:\PROJECTS\blog&amp;gt;bin/rails db:migrate 7) Saving data in the controller Sửa lại hàm create() trong file app/controllers/articles_controller.rb để xử lý dữ liệu submit về: def create @article = Article.new(article_params) @article.save redirect_to @article end private def article_params params.require(:article).permit(:title, :text) end 8) Showing Articles Thêm hàm show() trong file app/controllers/articles_controller.rb để hiển thị chi tiết article: class ArticlesController &amp;lt; ApplicationController def show @article = Article.find(params[:id]) end Tạo file template app/views/articles/show.html.erb để hiển thị nội dung article. &amp;lt;p&amp;gt; &amp;lt;strong&amp;gt;Title:&amp;lt;/strong&amp;gt; &amp;lt;%= @article.title %&amp;gt; &amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; &amp;lt;strong&amp;gt;Text:&amp;lt;/strong&amp;gt; &amp;lt;%= @article.text %&amp;gt; &amp;lt;/p&amp;gt; 9) Listing all articles Sửa hàm index() trong file app/controllers/articles_controller.rb để hiển thị tất cả articles: class ArticlesController &amp;lt; ApplicationController def index @articles = Article.all End Tạo file template app/views/articles/index.html.erb để hiển thị danh sách articles. &amp;lt;h1&amp;gt;Listing articles&amp;lt;/h1&amp;gt; &amp;lt;table&amp;gt; &amp;lt;tr&amp;gt; &amp;lt;th&amp;gt;Title&amp;lt;/th&amp;gt; &amp;lt;th&amp;gt;Text&amp;lt;/th&amp;gt; &amp;lt;/tr&amp;gt; &amp;lt;% @articles.each do |article| %&amp;gt; &amp;lt;tr&amp;gt; &amp;lt;td&amp;gt;&amp;lt;%= article.title %&amp;gt;&amp;lt;/td&amp;gt; &amp;lt;td&amp;gt;&amp;lt;%= article.text %&amp;gt;&amp;lt;/td&amp;gt; &amp;lt;td&amp;gt;&amp;lt;%= link_to 'Show', article_path(article) %&amp;gt;&amp;lt;/td&amp;gt; &amp;lt;/tr&amp;gt; &amp;lt;% end %&amp;gt; &amp;lt;/table&amp;gt; 10) Adding links Mở file app/views/welcome/index.html.erb để thêm đường link đến trang danh sách articles: &amp;lt;h1&amp;gt;Hello, Rails!&amp;lt;/h1&amp;gt; &amp;lt;%= link_to 'My Blog', controller: 'articles' %&amp;gt; Mở file app/views/articles/index.html.erb để thêm đường link đến trang tạo mới article: &amp;lt;%= link_to 'New article', new_article_path %&amp;gt; Mở file app/views/articles/new.html.erb để thêm đường link trở về trang danh sách articles: &amp;lt;%= form_for :article, url: articles_path do |f| %&amp;gt; ... &amp;lt;% end %&amp;gt; &amp;lt;%= link_to 'Back', articles_path %&amp;gt; Mở file app/views/articles/show.html.erb để thêm đường link trở về trang danh sách articles: &amp;lt;p&amp;gt; &amp;lt;strong&amp;gt;Title:&amp;lt;/strong&amp;gt; &amp;lt;%= @article.title %&amp;gt; &amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; &amp;lt;strong&amp;gt;Text:&amp;lt;/strong&amp;gt; &amp;lt;%= @article.text %&amp;gt; &amp;lt;/p&amp;gt; &amp;lt;%= link_to 'Back', articles_path %&amp;gt; 11) Adding Some Validation Mở file app/models/article.rb để thêm code kiểm tra tính hợp lệ của Article: class Article &amp;lt; ApplicationRecord validates :title, presence: true, length: { minimum: 5 } end Mở file app/controllers/articles_controller.rb để thêm code kiểm tra tính hợp lệ của Article: def new @article = Article.new end def create @article = Article.new(article_params) if @article.save redirect_to @article else render 'new' end end private def article_params params.require(:article).permit(:title, :text) end Mở file app/views/articles/new.html.erb để thêm code hiển thị thông báo lỗi: &amp;lt;%= form_for :article, url: articles_path do |f| %&amp;gt; &amp;lt;% if @article.errors.any? %&amp;gt; &amp;lt;div id=&quot;error_explanation&quot;&amp;gt; &amp;lt;h2&amp;gt; &amp;lt;%= pluralize(@article.errors.count, &quot;error&quot;) %&amp;gt; prohibited this article from being saved: &amp;lt;/h2&amp;gt; &amp;lt;ul&amp;gt; &amp;lt;% @article.errors.full_messages.each do |msg| %&amp;gt; &amp;lt;li&amp;gt;&amp;lt;%= msg %&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;% end %&amp;gt; &amp;lt;/ul&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;% end %&amp;gt; &amp;lt;p&amp;gt; &amp;lt;%= f.label :title %&amp;gt;&amp;lt;br&amp;gt; &amp;lt;%= f.text_field :title %&amp;gt; &amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; &amp;lt;%= f.label :text %&amp;gt;&amp;lt;br&amp;gt; &amp;lt;%= f.text_area :text %&amp;gt; &amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; &amp;lt;%= f.submit %&amp;gt; &amp;lt;/p&amp;gt; &amp;lt;% end %&amp;gt; &amp;lt;%= link_to 'Back', articles_path %&amp;gt; 12) Updating Articles Mở file app/controllers/articles_controller.rb để thêm action edit: def new @article = Article.new end def edit @article = Article.find(params[:id]) end def create @article = Article.new(article_params) if @article.save redirect_to @article else render 'new' end end Tạo file template app/views/articles/edit.html.erb để chỉnh sửa article. &amp;lt;h1&amp;gt;Edit article&amp;lt;/h1&amp;gt; &amp;lt;%= form_for(@article) do |f| %&amp;gt; &amp;lt;% if @article.errors.any? %&amp;gt; &amp;lt;div id=&quot;error_explanation&quot;&amp;gt; &amp;lt;h2&amp;gt; &amp;lt;%= pluralize(@article.errors.count, &quot;error&quot;) %&amp;gt; prohibited this article from being saved: &amp;lt;/h2&amp;gt; &amp;lt;ul&amp;gt; &amp;lt;% @article.errors.full_messages.each do |msg| %&amp;gt; &amp;lt;li&amp;gt;&amp;lt;%= msg %&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;% end %&amp;gt; &amp;lt;/ul&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;% end %&amp;gt; &amp;lt;p&amp;gt; &amp;lt;%= f.label :title %&amp;gt;&amp;lt;br&amp;gt; &amp;lt;%= f.text_field :title %&amp;gt; &amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; &amp;lt;%= f.label :text %&amp;gt;&amp;lt;br&amp;gt; &amp;lt;%= f.text_area :text %&amp;gt; &amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; &amp;lt;%= f.submit %&amp;gt; &amp;lt;/p&amp;gt; &amp;lt;% end %&amp;gt; &amp;lt;%= link_to 'Back', articles_path %&amp;gt; Thêm hàm update() trong file app/controllers/articles_controller.rb để cập nhật dữ liệu submit về: def create @article = Article.new(article_params) if @article.save redirect_to @article else render 'new' end end def update @article = Article.find(params[:id]) if @article.update(article_params) redirect_to @article else render 'edit' end end private def article_params params.require(:article).permit(:title, :text) end Mở file app/views/articles/index.html.erb để thêm đường link đến trang chỉnh sửa article: &amp;lt;table&amp;gt; &amp;lt;tr&amp;gt; &amp;lt;th&amp;gt;Title&amp;lt;/th&amp;gt; &amp;lt;th&amp;gt;Text&amp;lt;/th&amp;gt; &amp;lt;th colspan=&quot;2&quot;&amp;gt;&amp;lt;/th&amp;gt; &amp;lt;/tr&amp;gt; &amp;lt;% @articles.each do |article| %&amp;gt; &amp;lt;tr&amp;gt; &amp;lt;td&amp;gt;&amp;lt;%= article.title %&amp;gt;&amp;lt;/td&amp;gt; &amp;lt;td&amp;gt;&amp;lt;%= article.text %&amp;gt;&amp;lt;/td&amp;gt; &amp;lt;td&amp;gt;&amp;lt;%= link_to 'Show', article_path(article) %&amp;gt;&amp;lt;/td&amp;gt; &amp;lt;td&amp;gt;&amp;lt;%= link_to 'Edit', edit_article_path(article) %&amp;gt;&amp;lt;/td&amp;gt; &amp;lt;/tr&amp;gt; &amp;lt;% end %&amp;gt; &amp;lt;/table&amp;gt; Mở file app/views/articles/show.html.erb để thêm đường link đến trang chỉnh sửa article: ... &amp;lt;%= link_to 'Edit', edit_article_path(@article) %&amp;gt; | &amp;lt;%= link_to 'Back', articles_path %&amp;gt; 13) Using partials to clean up duplication in views Tạo file template app/views/articles/_form.html.erb để thêm mới hay chỉnh sửa article. &amp;lt;%= form_for @article do |f| %&amp;gt; &amp;lt;% if @article.errors.any? %&amp;gt; &amp;lt;div id=&quot;error_explanation&quot;&amp;gt; &amp;lt;h2&amp;gt; &amp;lt;%= pluralize(@article.errors.count, &quot;error&quot;) %&amp;gt; prohibited this article from being saved: &amp;lt;/h2&amp;gt; &amp;lt;ul&amp;gt; &amp;lt;% @article.errors.full_messages.each do |msg| %&amp;gt; &amp;lt;li&amp;gt;&amp;lt;%= msg %&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;% end %&amp;gt; &amp;lt;/ul&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;% end %&amp;gt; &amp;lt;p&amp;gt; &amp;lt;%= f.label :title %&amp;gt;&amp;lt;br&amp;gt; &amp;lt;%= f.text_field :title %&amp;gt; &amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; &amp;lt;%= f.label :text %&amp;gt;&amp;lt;br&amp;gt; &amp;lt;%= f.text_area :text %&amp;gt; &amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; &amp;lt;%= f.submit %&amp;gt; &amp;lt;/p&amp;gt; &amp;lt;% end %&amp;gt; Sửa file template app/views/articles/new.html.erb để sử dụng partial view: &amp;lt;h1&amp;gt;New article&amp;lt;/h1&amp;gt; &amp;lt;%= render 'form' %&amp;gt; &amp;lt;%= link_to 'Back', articles_path %&amp;gt; Tương tự sửa file template app/views/articles/edit.html.erb để sử dụng partial view: &amp;lt;h1&amp;gt;Edit article&amp;lt;/h1&amp;gt; &amp;lt;%= render 'form' %&amp;gt; &amp;lt;%= link_to 'Back', articles_path %&amp;gt; 14) Deleting Articles Mở file app/controllers/articles_controller.rb để thêm action destroy: class ArticlesController &amp;lt; ApplicationController def index @articles = Article.all end def show @article = Article.find(params[:id]) end def new @article = Article.new end def edit @article = Article.find(params[:id]) end def create @article = Article.new(article_params) if @article.save redirect_to @article else render 'new' end end def update @article = Article.find(params[:id]) if @article.update(article_params) redirect_to @article else render 'edit' end end def destroy @article = Article.find(params[:id]) @article.destroy redirect_to articles_path end private def article_params params.require(:article).permit(:title, :text) end end Mở file app/views/articles/index.html.erb để thêm nút xóa article: &amp;lt;h1&amp;gt;Listing Articles&amp;lt;/h1&amp;gt; &amp;lt;%= link_to 'New article', new_article_path %&amp;gt; &amp;lt;table&amp;gt; &amp;lt;tr&amp;gt; &amp;lt;th&amp;gt;Title&amp;lt;/th&amp;gt; &amp;lt;th&amp;gt;Text&amp;lt;/th&amp;gt; &amp;lt;th colspan=&quot;3&quot;&amp;gt;&amp;lt;/th&amp;gt; &amp;lt;/tr&amp;gt; &amp;lt;% @articles.each do |article| %&amp;gt; &amp;lt;tr&amp;gt; &amp;lt;td&amp;gt;&amp;lt;%= article.title %&amp;gt;&amp;lt;/td&amp;gt; &amp;lt;td&amp;gt;&amp;lt;%= article.text %&amp;gt;&amp;lt;/td&amp;gt; &amp;lt;td&amp;gt;&amp;lt;%= link_to 'Show', article_path(article) %&amp;gt;&amp;lt;/td&amp;gt; &amp;lt;td&amp;gt;&amp;lt;%= link_to 'Edit', edit_article_path(article) %&amp;gt;&amp;lt;/td&amp;gt; &amp;lt;td&amp;gt;&amp;lt;%= link_to 'Destroy', article_path(article), method: :delete, data: { confirm: 'Are you sure?' } %&amp;gt;&amp;lt;/td&amp;gt; &amp;lt;/tr&amp;gt; &amp;lt;% end %&amp;gt; &amp;lt;/table&amp;gt; Congratulations, you can now create, show, list, update and destroy articles. 15) Adding a Second Model Tạo model Comment tham chiếu đến Article: C:\PROJECTS\blog&amp;gt;bin/rails generate model Comment commenter:string body:text article:references. Mở file db/migrate/YYYYMMDDHHMMSS_create_comments.rb xem cấu trúc bảng comments trong database. class CreateComments &amp;lt; ActiveRecord::Migration[5.0] def change create_table :comments do |t| t.string :commenter t.text :body t.references :article, foreign_key: true t.timestamps end end end Migrate cấu trúc bảng comments vào database: C:\PROJECTS\blog&amp;gt;bin/rails db:migrate 16) Associating Models Mở file app/models/article.rb để thêm tham chiếu đến Comment: class Article &amp;lt; ApplicationRecord has_many :comments validates :title, presence: true, length: { minimum: 5 } end 17) Adding a Route for Comments Mở file config/routes.rb thêm resource comments: resources :articles do resources :comments end 18) Generating Comments Controller Tạo controller “CommentsController”: C:\PROJECTS\blog&amp;gt;bin/rails generate controller Comments. Mở file app/views/articles/show.html.erb để thêm tạo mới comment: &amp;lt;p&amp;gt; &amp;lt;strong&amp;gt;Title:&amp;lt;/strong&amp;gt; &amp;lt;%= @article.title %&amp;gt; &amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; &amp;lt;strong&amp;gt;Text:&amp;lt;/strong&amp;gt; &amp;lt;%= @article.text %&amp;gt; &amp;lt;/p&amp;gt; &amp;lt;h2&amp;gt;Add a comment:&amp;lt;/h2&amp;gt; &amp;lt;%= form_for([@article, @article.comments.build]) do |f| %&amp;gt; &amp;lt;p&amp;gt; &amp;lt;%= f.label :commenter %&amp;gt;&amp;lt;br&amp;gt; &amp;lt;%= f.text_field :commenter %&amp;gt; &amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; &amp;lt;%= f.label :body %&amp;gt;&amp;lt;br&amp;gt; &amp;lt;%= f.text_area :body %&amp;gt; &amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; &amp;lt;%= f.submit %&amp;gt; &amp;lt;/p&amp;gt; &amp;lt;% end %&amp;gt; &amp;lt;%= link_to 'Edit', edit_article_path(@article) %&amp;gt; | &amp;lt;%= link_to 'Back', articles_path %&amp;gt; Mở file app/controllers/comments_controller.rb để thêm các hàm chức năng: class CommentsController &amp;lt; ApplicationController def create @article = Article.find(params[:article_id]) @comment = @article.comments.create(comment_params) redirect_to article_path(@article) end private def comment_params params.require(:comment).permit(:commenter, :body) end end Sửa file template app/views/articles/show.html.erb để hiển thị danh sách comments. &amp;lt;p&amp;gt; &amp;lt;strong&amp;gt;Title:&amp;lt;/strong&amp;gt; &amp;lt;%= @article.title %&amp;gt; &amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; &amp;lt;strong&amp;gt;Text:&amp;lt;/strong&amp;gt; &amp;lt;%= @article.text %&amp;gt; &amp;lt;/p&amp;gt; &amp;lt;h2&amp;gt;Comments&amp;lt;/h2&amp;gt; &amp;lt;% @article.comments.each do |comment| %&amp;gt; &amp;lt;p&amp;gt; &amp;lt;strong&amp;gt;Commenter:&amp;lt;/strong&amp;gt; &amp;lt;%= comment.commenter %&amp;gt; &amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; &amp;lt;strong&amp;gt;Comment:&amp;lt;/strong&amp;gt; &amp;lt;%= comment.body %&amp;gt; &amp;lt;/p&amp;gt; &amp;lt;% end %&amp;gt; &amp;lt;h2&amp;gt;Add a comment:&amp;lt;/h2&amp;gt; &amp;lt;%= form_for([@article, @article.comments.build]) do |f| %&amp;gt; &amp;lt;p&amp;gt; &amp;lt;%= f.label :commenter %&amp;gt;&amp;lt;br&amp;gt; &amp;lt;%= f.text_field :commenter %&amp;gt; &amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; &amp;lt;%= f.label :body %&amp;gt;&amp;lt;br&amp;gt; &amp;lt;%= f.text_area :body %&amp;gt; &amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; &amp;lt;%= f.submit %&amp;gt; &amp;lt;/p&amp;gt; &amp;lt;% end %&amp;gt; &amp;lt;%= link_to 'Edit', edit_article_path(@article) %&amp;gt; | &amp;lt;%= link_to 'Back', articles_path %&amp;gt; 19) Refactoring/Rendering Partial Collections Tạo file template app/views/comments/_comment.html.erb để hiển thị comment. &amp;lt;p&amp;gt; &amp;lt;strong&amp;gt;Commenter:&amp;lt;/strong&amp;gt; &amp;lt;%= comment.commenter %&amp;gt; &amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; &amp;lt;strong&amp;gt;Comment:&amp;lt;/strong&amp;gt; &amp;lt;%= comment.body %&amp;gt; &amp;lt;/p&amp;gt; Mở file app/views/articles/show.html.erb để sử dụng partial view: &amp;lt;p&amp;gt; &amp;lt;strong&amp;gt;Title:&amp;lt;/strong&amp;gt; &amp;lt;%= @article.title %&amp;gt; &amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; &amp;lt;strong&amp;gt;Text:&amp;lt;/strong&amp;gt; &amp;lt;%= @article.text %&amp;gt; &amp;lt;/p&amp;gt; &amp;lt;h2&amp;gt;Comments&amp;lt;/h2&amp;gt; &amp;lt;%= render @article.comments %&amp;gt; &amp;lt;h2&amp;gt;Add a comment:&amp;lt;/h2&amp;gt; &amp;lt;%= form_for([@article, @article.comments.build]) do |f| %&amp;gt; &amp;lt;p&amp;gt; &amp;lt;%= f.label :commenter %&amp;gt;&amp;lt;br&amp;gt; &amp;lt;%= f.text_field :commenter %&amp;gt; &amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; &amp;lt;%= f.label :body %&amp;gt;&amp;lt;br&amp;gt; &amp;lt;%= f.text_area :body %&amp;gt; &amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; &amp;lt;%= f.submit %&amp;gt; &amp;lt;/p&amp;gt; &amp;lt;% end %&amp;gt; &amp;lt;%= link_to 'Edit', edit_article_path(@article) %&amp;gt; | &amp;lt;%= link_to 'Back', articles_path %&amp;gt; 20) Rendering a Partial Form Tạo file template app/views/comments/_form.html.erb để hiển thị form comment. &amp;lt;%= form_for([@article, @article.comments.build]) do |f| %&amp;gt; &amp;lt;p&amp;gt; &amp;lt;%= f.label :commenter %&amp;gt;&amp;lt;br&amp;gt; &amp;lt;%= f.text_field :commenter %&amp;gt; &amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; &amp;lt;%= f.label :body %&amp;gt;&amp;lt;br&amp;gt; &amp;lt;%= f.text_area :body %&amp;gt; &amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; &amp;lt;%= f.submit %&amp;gt; &amp;lt;/p&amp;gt; &amp;lt;% end %&amp;gt; Mở file app/views/articles/show.html.erb để sử dụng partial view: &amp;lt;p&amp;gt; &amp;lt;strong&amp;gt;Title:&amp;lt;/strong&amp;gt; &amp;lt;%= @article.title %&amp;gt; &amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; &amp;lt;strong&amp;gt;Text:&amp;lt;/strong&amp;gt; &amp;lt;%= @article.text %&amp;gt; &amp;lt;/p&amp;gt; &amp;lt;h2&amp;gt;Comments&amp;lt;/h2&amp;gt; &amp;lt;%= render @article.comments %&amp;gt; &amp;lt;h2&amp;gt;Add a comment:&amp;lt;/h2&amp;gt; &amp;lt;%= render 'comments/form' %&amp;gt; &amp;lt;%= link_to 'Edit', edit_article_path(@article) %&amp;gt; | &amp;lt;%= link_to 'Back', articles_path %&amp;gt; 21) Deleting Comments Mở file app/views/comments/_comment.html.erb để thêm nút xóa comment: &amp;lt;p&amp;gt; &amp;lt;strong&amp;gt;Commenter:&amp;lt;/strong&amp;gt; &amp;lt;%= comment.commenter %&amp;gt; &amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; &amp;lt;strong&amp;gt;Comment:&amp;lt;/strong&amp;gt; &amp;lt;%= comment.body %&amp;gt; &amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; &amp;lt;%= link_to 'Destroy Comment', [comment.article, comment], method: :delete, data: { confirm: 'Are you sure?' } %&amp;gt; &amp;lt;/p&amp;gt; Mở file app/controllers/comments_controller.rb để thêm action destroy: class CommentsController &amp;lt; ApplicationController def create @article = Article.find(params[:article_id]) @comment = @article.comments.create(comment_params) redirect_to article_path(@article) end def destroy @article = Article.find(params[:article_id]) @comment = @article.comments.find(params[:id]) @comment.destroy redirect_to article_path(@article) end private def comment_params params.require(:comment).permit(:commenter, :body) end end 22) Deleting Associated Objects Mở file app/models/article.rb để xóa comments phụ thuộc khi ta xóa article: class Article &amp;lt; ApplicationRecord has_many :comments, dependent: :destroy validates :title, presence: true, length: { minimum: 5 } end 23) Security Mở file app/controllers/articles_controller.rb để thêm xác thực: class ArticlesController &amp;lt; ApplicationController http_basic_authenticate_with name: &quot;dhh&quot;, password: &quot;secret&quot;, except: [:index, :show] def index @articles = Article.all end Mở file app/controllers/comments_controller.rb để thêm xác thực: class CommentsController &amp;lt; ApplicationController http_basic_authenticate_with name: &quot;dhh&quot;, password: &quot;secret&quot;, only: :destroy def create @article = Article.find(params[:article_id]) # ... end</summary></entry></feed>

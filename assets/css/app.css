@@ -52,6 +52,21 @@ dd.accordion-navigation small.error {
   background-color: #f2f2f2;
   padding: 10px 10px 10px 0; }
 
+.post-content h3 {
+  font-size: 1.125rem;
+  background-color: #f2f2f2;
+  padding: 10px 10px 10px 0; }
+
+.post-content h5 {
+  font-size: 1.125rem;
+  background-color: #f2f2f2;
+  padding: 10px 10px 10px 0; }
+
+.post-content h6 {
+  font-size: 1.125rem;
+  background-color: #f2f2f2;
+  padding: 10px 10px 10px 0; }
+
 body {
   font-family: Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif; }
 
