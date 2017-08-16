@@ -783,53 +783,53 @@ Mở trình duyệt rồi vào địa chỉ http://localhost:8080/ch17/contacts/
 <h3>6) Implement the Views for Contact Information</h3>
 <h5>Mapping of URLs to the Views</h5>
 Table 17-5. Mapping of URLs to Views<br>
-<div class="row">
-  <div class="small-3 large-3 columns">URL</div>
-  <div class="small-3 large-3 columns">HTTP Method</div>
-  <div class="small-3 large-3 columns">Controller Method</div>
-  <div class="small-3 large-3 columns">Description</div>
+<div class="grid-x grid-margin-x">
+  <div class="small-3 large-3 cell">URL</div>
+  <div class="small-3 large-3 cell">HTTP Method</div>
+  <div class="small-3 large-3 cell">Controller Method</div>
+  <div class="small-3 large-3 cell">Description</div>
 </div>
-<div class="row">
-  <div class="small-3 large-3 columns">/contacts</div>
-  <div class="small-3 large-3 columns">GET</div>
-  <div class="small-3 large-3 columns">list()</div>
-  <div class="small-3 large-3 columns">List the contact information.</div>
+<div class="grid-x grid-margin-x">
+  <div class="small-3 large-3 cell">/contacts</div>
+  <div class="small-3 large-3 cell">GET</div>
+  <div class="small-3 large-3 cell">list()</div>
+  <div class="small-3 large-3 cell">List the contact information.</div>
 </div>
-<div class="row">
-  <div class="small-3 large-3 columns">/contacts/{id}</div>
-  <div class="small-3 large-3 columns">GET</div>
-  <div class="small-3 large-3 columns">show()</div>
-  <div class="small-3 large-3 columns">Display a single contact’s information.</div>
+<div class="grid-x grid-margin-x">
+  <div class="small-3 large-3 cell">/contacts/{id}</div>
+  <div class="small-3 large-3 cell">GET</div>
+  <div class="small-3 large-3 cell">show()</div>
+  <div class="small-3 large-3 cell">Display a single contact’s information.</div>
 </div>
-<div class="row">
-  <div class="small-3 large-3 columns">/contacts/{id}?form</div>
-  <div class="small-3 large-3 columns">GET</div>
-  <div class="small-3 large-3 columns">updateForm()</div>
-  <div class="small-3 large-3 columns">Display the edit form for updating an existing contact.</div>
+<div class="grid-x grid-margin-x">
+  <div class="small-3 large-3 cell">/contacts/{id}?form</div>
+  <div class="small-3 large-3 cell">GET</div>
+  <div class="small-3 large-3 cell">updateForm()</div>
+  <div class="small-3 large-3 cell">Display the edit form for updating an existing contact.</div>
 </div>
-<div class="row">
-  <div class="small-3 large-3 columns">/contacts/{id}?form</div>
-  <div class="small-3 large-3 columns">POST</div>
-  <div class="small-3 large-3 columns">update()</div>
-  <div class="small-3 large-3 columns">Users update the contact information and submit the form. Data will be processed here.</div>
+<div class="grid-x grid-margin-x">
+  <div class="small-3 large-3 cell">/contacts/{id}?form</div>
+  <div class="small-3 large-3 cell">POST</div>
+  <div class="small-3 large-3 cell">update()</div>
+  <div class="small-3 large-3 cell">Users update the contact information and submit the form. Data will be processed here.</div>
 </div>
-<div class="row">
-  <div class="small-3 large-3 columns">/contacts?form</div>
-  <div class="small-3 large-3 columns">GET</div>
-  <div class="small-3 large-3 columns">createForm()</div>
-  <div class="small-3 large-3 columns">Display the edit form for creating a new contact.</div>
+<div class="grid-x grid-margin-x">
+  <div class="small-3 large-3 cell">/contacts?form</div>
+  <div class="small-3 large-3 cell">GET</div>
+  <div class="small-3 large-3 cell">createForm()</div>
+  <div class="small-3 large-3 cell">Display the edit form for creating a new contact.</div>
 </div>
-<div class="row">
-  <div class="small-3 large-3 columns">/contacts?form</div>
-  <div class="small-3 large-3 columns">POST</div>
-  <div class="small-3 large-3 columns">create()</div>
-  <div class="small-3 large-3 columns">Users enter contact information and submit the form. Data will be processed here.</div>
+<div class="grid-x grid-margin-x">
+  <div class="small-3 large-3 cell">/contacts?form</div>
+  <div class="small-3 large-3 cell">POST</div>
+  <div class="small-3 large-3 cell">create()</div>
+  <div class="small-3 large-3 cell">Users enter contact information and submit the form. Data will be processed here.</div>
 </div>
-<div class="row">
-  <div class="small-3 large-3 columns">/contacts/photo/{id}</div>
-  <div class="small-3 large-3 columns">GET</div>
-  <div class="small-3 large-3 columns">downloadPhoto()</div>
-  <div class="small-3 large-3 columns">Download the photo of a contact.</div>
+<div class="grid-x grid-margin-x">
+  <div class="small-3 large-3 cell">/contacts/photo/{id}</div>
+  <div class="small-3 large-3 cell">GET</div>
+  <div class="small-3 large-3 cell">downloadPhoto()</div>
+  <div class="small-3 large-3 cell">Download the photo of a contact.</div>
 </div>
 <h5>Implementing the Show Contact View</h5>
 1. Hiện thực controller method. <br>
